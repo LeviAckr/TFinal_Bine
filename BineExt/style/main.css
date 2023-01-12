@@ -1,0 +1,30 @@
+body{
+    width: 200px;
+    height: 200px;
+    overflow-x: hidden;
+    background-image:url('assets/giff.gif');
+    background-size:100%;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    height:400%;
+    width:400%;
+    background-color: black;
+}
+
+#ac{
+    color: aliceblue;
+    text-align: left;
+    margin-bottom: 40px;
+    margin-left: 200px;
+    
+}
+
+#ip{
+    color: rgb(81, 255, 0);
+    display: flex;
+    height: 10px;
+    width: -300px;
+    margin-top: -63px;
+    margin-left: 270px;
+    
+}
